@@ -12,7 +12,7 @@
 
 ## Вариативная часть задания
 
-Для вариативной части был адаптирован проект [Python: Developing Games With PyGame]([task/README.md](https://pythonprogramming.net/pygame-python-3-part-1-intro/)): **Обучение C# на основе создания пошаговой головоломки "Brushie"**
+Для вариативной части был адаптирован проект [Python: Developing Games With PyGame]([task/README.md](https://pythonprogramming.net/pygame-python-3-part-1-intro/)): **Обучение pygame на основе создания аркадной игры  "Star Catcher"**
 
 ## Ответственный по проектной (учебной) практике
 
