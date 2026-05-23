@@ -27,7 +27,7 @@ body {
     padding: 0 28px;
 }
 
-/* Header */
+
 .site-header {
     background: white;
     box-shadow: 0 2px 15px rgba(0,0,0,0.03);
@@ -95,7 +95,7 @@ body {
     border-bottom-color: var(--secondary);
 }
 
-/* Hero */
+
 .hero {
     background: linear-gradient(105deg, #eef6f1 0%, #ffffff 100%);
     padding: 64px 0 56px;
@@ -162,7 +162,7 @@ body {
     object-fit: cover;
 }
 
-/* Sections */
+
 section {
     padding: 70px 0;
     border-bottom: 1px solid #e2eee8;
@@ -193,7 +193,7 @@ section {
     color: #2a5e4c;
 }
 
-/* About */
+
 .about-grid {
     display: flex;
     flex-wrap: wrap;
@@ -236,7 +236,6 @@ section {
     font-style: italic;
 }
 
-/* Members - один участник */
 .members-grid {
     display: flex;
     justify-content: center;
@@ -304,7 +303,7 @@ section {
     border: 1px solid #deede6;
 }
 
-/* Journal */
+
 .journal-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -363,7 +362,7 @@ section {
     border-radius: 20px;
 }
 
-/* Resources */
+
 .resources-wrapper {
     display: flex;
     flex-wrap: wrap;
@@ -473,7 +472,6 @@ section {
     font-size: 0.9rem;
 }
 
-/* Footer */
 footer {
     background: #112721;
     color: #bed9cf;
@@ -482,7 +480,6 @@ footer {
     font-size: 0.85rem;
 }
 
-/* Responsive */
 @media (max-width: 750px) {
     .hero-text h2 { font-size: 2rem; }
     .section-title { font-size: 1.8rem; }
