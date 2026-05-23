@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <rect width="400" height="200" fill="#8b5cf6"/>
+
+  <!-- PDF and file icons -->
+  <rect x="100" y="55" width="70" height="90" fill="white" rx="8"/>
+  <rect x="140" y="55" width="10" height="30" fill="#e0e0e0"/>
+  <text x="120" y="100" text-anchor="middle" fill="#5850e8" font-size="20" font-weight="bold">PDF</text>
+
+  <rect x="200" y="65" width="70" height="50" fill="white" rx="8"/>
+  <text x="235" y="98" text-anchor="middle" fill="#f59e0b" font-size="18">📄</text>
+
+  <rect x="290" y="75" width="50" height="40" fill="white" rx="6"/>
+  <text x="315" y="103" text-anchor="middle" fill="#10b981" font-size="14">📎</text>
+
+  <text x="200" y="170" text-anchor="middle" fill="white" font-size="14" font-weight="bold">Спринт 2: Поддержка файлов</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#1e1b4b"/>
+  <rect width="640" height="360" fill="url(#grad)" opacity="0.3"/>
+
+  <!-- Play button -->
+  <circle cx="320" cy="180" r="50" fill="#5850e8" opacity="0.9"/>
+  <polygon points="305,160 305,200 345,180" fill="white"/>
+
+  <!-- Text -->
+  <text x="320" y="270" text-anchor="middle" fill="#c4c4e0" font-size="18" font-weight="500">Демонстрация работы</text>
+  <text x="320" y="295" text-anchor="middle" fill="#8b8b9e" font-size="13">ИИ-ассистент САЛЮТ в действии</text>
+
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5850e8"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+</svg>

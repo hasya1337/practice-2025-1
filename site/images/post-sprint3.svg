@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <rect width="400" height="200" fill="#f59e0b"/>
+
+  <!-- Brain/memory icons -->
+  <circle cx="130" cy="100" r="45" fill="white" opacity="0.9"/>
+  <text x="130" y="110" text-anchor="middle" fill="#f59e0b" font-size="28">🧠</text>
+
+  <circle cx="250" cy="100" r="45" fill="white" opacity="0.9"/>
+  <text x="250" y="110" text-anchor="middle" fill="#f59e0b" font-size="28">⚙️</text>
+
+  <!-- Light/dark theme -->
+  <circle cx="370" cy="50" r="18" fill="white"/>
+  <text x="370" y="56" text-anchor="middle" fill="#1c1c2a" font-size="12">🌙</text>
+
+  <circle cx="370" cy="150" r="18" fill="#1c1c2a"/>
+  <text x="370" y="156" text-anchor="middle" fill="white" font-size="12">☀️</text>
+
+  <text x="200" y="175" text-anchor="middle" fill="#332a00" font-size="14" font-weight="bold">Спринт 3: Память + темы</text>
+</svg>

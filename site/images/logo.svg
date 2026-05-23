@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
-  <circle cx="100" cy="100" r="95" fill="#2f6b47" stroke="#e9b35f" stroke-width="4"/>
-  <circle cx="100" cy="100" r="75" fill="none" stroke="#e9b35f" stroke-width="3" stroke-dasharray="10 6"/>
-  <path d="M60 120 L100 70 L140 120" fill="none" stroke="white" stroke-width="6" stroke-linecap="round"/>
-  <circle cx="100" cy="85" r="6" fill="#e9b35f"/>
-  <text x="100" y="155" text-anchor="middle" fill="white" font-size="32" font-weight="bold" font-family="Arial">🌱</text>
-</svg>

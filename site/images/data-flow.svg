@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 160">
+  <rect width="300" height="160" fill="#f5f3ff" rx="12"/>
+
+  <!-- User -->
+  <circle cx="45" cy="80" r="28" fill="#5850e8"/>
+  <text x="45" y="85" text-anchor="middle" fill="white" font-size="14">👤</text>
+  <text x="45" y="118" text-anchor="middle" fill="#5850e8" font-size="9">Пользователь</text>
+
+  <!-- Arrow 1 -->
+  <line x1="73" y1="80" x2="115" y2="80" stroke="#5850e8" stroke-width="2" marker-end="url(#arrow1)"/>
+
+  <!-- Chat -->
+  <rect x="115" y="55" width="70" height="50" fill="#8b5cf6" rx="10"/>
+  <text x="150" y="75" text-anchor="middle" fill="white" font-size="9">Чат</text>
+  <text x="150" y="90" text-anchor="middle" fill="white" font-size="9">Интерфейс</text>
+
+  <!-- Arrow 2 -->
+  <line x1="185" y1="80" x2="220" y2="80" stroke="#5850e8" stroke-width="2" marker-end="url(#arrow1)"/>
+
+  <!-- AI -->
+  <rect x="220" y="55" width="65" height="50" fill="#f59e0b" rx="10"/>
+  <text x="252" y="75" text-anchor="middle" fill="#332a00" font-size="9">ИИ</text>
+  <text x="252" y="90" text-anchor="middle" fill="#332a00" font-size="9">Модель</text>
+
+  <!-- Return arrow bottom -->
+  <path d="M252 105 L252 135 L45 135 L45 108" fill="none" stroke="#10b981" stroke-width="1.5" stroke-dasharray="4 3" marker-end="url(#arrow2)"/>
+  <text x="150" y="150" text-anchor="middle" fill="#10b981" font-size="8">Ответ + стриминг токенов</text>
+
+  <defs>
+    <marker id="arrow1" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#5850e8"/>
+    </marker>
+    <marker id="arrow2" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#10b981"/>
+    </marker>
+  </defs>
+</svg>
